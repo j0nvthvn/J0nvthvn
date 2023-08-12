@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J0nvthvn
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 
 <!---
 J0nvthvn/J0nvthvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
