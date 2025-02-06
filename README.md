@@ -10,7 +10,7 @@
 - 🌐 Explorando el **desarrollo web** con HTML, CSS y JavaScript.
 - 📡 Apasionado por las **redes e IoT**.
 
-## Contáctame
+## ✉️ Contáctame
 - 📫 **Correo:** jonathan.flores@mail.udp.cl
 - 💼 **LinkedIn:** www.linkedin.com/in/jonathan-flores-jift
 
