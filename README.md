@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jonathan (@J0nvthvn) 
+# 👋 Hi, I’m Jonathan (@j0nvthvn) 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **Ingeniería Civil en Informática y Telecomunicaciones** (3er año).
 - 🌱 Aprendiendo **HTML y CSS**.
