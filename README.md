@@ -1,10 +1,9 @@
 # 👋 ¡Hola, mi nombre es Jonathan!
-*Estudiante de Ingeniería y desarrollador de software en formación.*
 
 ---
 
 ### 🚀 Sobre Mí
-Soy un estudiante de **Ingeniería Civil en Informática y Telecomunicaciones** (3er año) con una gran pasión por el ecosistema del desarrollo web. Mi objetivo es construir aplicaciones funcionales, escalables y con un gran performance.
+Soy estudiante de **Ingeniería Civil en Informática y Telecomunicaciones** (3er año) con una gran pasión por el ecosistema del desarrollo web. Mi objetivo es construir aplicaciones funcionales, escalables y con un gran performance.
 
 Actualmente, estoy enfocado en profundizar mis conocimientos en el desarrollo full-stack, construyendo proyectos personales que me permitan aplicar y mejorar mis habilidades.
 
