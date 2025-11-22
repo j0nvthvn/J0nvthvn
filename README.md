@@ -32,17 +32,16 @@ Mi enfoque actual se centra en la arquitectura de software limpia y el uso de te
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📚 Actualmente Aprendiendo
+### Actualmente Aprendiendo
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0nvthvn&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonathan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0nvthvn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
